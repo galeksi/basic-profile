@@ -1,11 +1,28 @@
 # Introduction
 
----
-
-Simple static HTML profile page deployed on: xxx
+Simple static HTML profile.
 
 ## Content
 
-- one
-- two
-- three
+- Me
+- About
+- Tech Stack
+- Hobbies
+- Favourite Books
+- Contact
+
+## Technologies
+
+- HTML
+
+## Structure
+
+```
+.
+├── index.html
+├── readme-example.png
+└── README.md
+
+```
+
+## Public link
