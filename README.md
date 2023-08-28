@@ -22,7 +22,8 @@ Simple static HTML profile.
 ├── index.html
 ├── readme-example.png
 └── README.md
-
 ```
 
 ## Public link
+
+https://galeksi.github.io/basic-profile/
